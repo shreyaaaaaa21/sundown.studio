@@ -1,4 +1,5 @@
 Sundown
+
 Welcome to Sundown, a simple yet elegant website designed to showcase the beauty of sunset imagery. 
 This project is built using HTML, CSS, and JavaScript, focusing on clean design and smooth user interactions.
 
@@ -19,6 +20,6 @@ CSS3: Styling, layout, and responsive design.
 JavaScript: Interactive elements and animations.
 
 
-Author
-Shreya Pandey
+Author<br>
+Shreya Pandey<br>
 Web Developer & Designer
