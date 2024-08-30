@@ -59,7 +59,7 @@
 <h2>Getting Started</h2>
 <p>To get started with this project, you can clone the repository and open the files in your preferred code editor. The project is structured with three main files:</p>
 <ul>
-    <li><strong>index.html:</strong> The main HTML file that contains the structure of the web page.</li>
+    <li><strong>main.html:</strong> The main HTML file that contains the structure of the web page.</li>
     <li><strong>style.css:</strong> The CSS file that styles the web page.</li>
     <li><strong>script.js:</strong> The JavaScript file that adds interactivity to the web page.</li>
 </ul>
